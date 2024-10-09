@@ -1,7 +1,13 @@
 #include <stdio.h>
-char name[20];
+
+#define LEN 20
+
+char name[LEN];
+
 void fun(void);
-int count = 20;
+
+int count = LEN;
+
 int main(void)
 {
   fun();
