@@ -24,6 +24,11 @@ void fun(int value)
 {
   printf("Hello World!\n");
   printf("from function fun!\n");
+/**
+
+Last function in this day!
+
+*/
 }
 
 int add_fuc(int a,int b)
