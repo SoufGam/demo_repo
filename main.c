@@ -23,4 +23,9 @@ void fun(void)
 {
   printf("Hello World!\n");
   printf("from function fun!\n");
+/**
+
+Last function in this day!
+
+*/
 }
